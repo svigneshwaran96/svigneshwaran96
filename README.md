@@ -25,7 +25,7 @@ how I can help your company meet its goals.**
 ## Connect with me :</h3>
 <p align="left">
 <a href="htt
-<a href="https://linkedin.com/in/vengatesan2612" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vengatesan2612" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/vigneshwaranstars" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vengatesan2612" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Programming tools and libraries :</h3>
