@@ -16,7 +16,7 @@ how I can help your company meet its goals.**
 
  📖 Learning about **Machine Learning** and using it to forecast predictions.
 
- 👀 Seeking opportunities to collaborate on projects involving **Data science and Data analysis.**
+ 👀 Seeking opportunities to collaborate on projects involving **AI Machine learning ,Data science ,Data analysis and Generative AI.**
 
 
  💬 Ask me about **Machine Learning, NLP, Deep learning, Python,Visualization and Database like SQL and MongoDB**
